@@ -10,7 +10,7 @@ public class Admin extends Person {
     
      public void verifyMovie(Movie movie)
      {
-
+ movie.isverified = true;
      }
 
     
