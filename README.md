@@ -12,6 +12,7 @@ LinkedIn <https://www.linkedin.com/in/chinna-sakthi-k-482b4b1a9/>
  Build a movie review platform that collects reviews for movies from its users and later uses the reviews to derive insights which help in providing better  recommendations.
  
  # Class Diagram 
-![CLASS drawio](https://user-images.githubusercontent.com/75113031/201361847-eb18f636-b196-4ca9-b3c4-1c0205db6e16.png)
 
 
+
+![CLASS drawio (1)](https://user-images.githubusercontent.com/75113031/202108747-c7cd94f0-16fc-4606-9886-58bbb21fccc5.png)
